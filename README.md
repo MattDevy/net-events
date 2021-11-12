@@ -12,3 +12,4 @@ It's intended use is to report all network activity in a k8 pod.
 - [ ] Allow filtering by IP / CIDR / Protocol
 - [ ] Allow enable/disable IPv4 / IPv6
 - [ ] Create example with Minikube
+- [ ] Stretch: k8 operator to inject with annotations
